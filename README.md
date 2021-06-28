@@ -88,10 +88,10 @@ For each of the algorithms, a model is fit with the following processing steps:
 * Split the dataset into a training set comprising 70% of the data and a test set comprising the remaining 30% using the train test split function with a random state of 200.
 * Perform the same imputation and scaling to the training set:
 
-  *For each feature, perform median imputation to impute missing values. 
+  * For each feature, perform median imputation to impute missing values. 
 
-  *Scale each feature by removing the mean and scaling to unit variance.
-  
+  * Scale each feature by removing the mean and scaling to unit variance.
+
 * Train the classifiers using the training set.
 * Test the classifiers by applying them to the test set.
 
