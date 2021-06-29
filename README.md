@@ -1,4 +1,4 @@
-# COMP20008-Classification
+# Classification and Feature Engineering
 
 COMP20008 Project 2 Part 2: Classification
 
